@@ -1,6 +1,6 @@
 {
     "bytebin_url": "../bytebin/",
-    "bytesocks_host": "../bytesock/",
+    "bytesocks_host": "../bytesocks/",
     "base": "/",
     "selfHosted": true,
     "api_url": "https://metadata.luckperms.net"
